@@ -14,15 +14,15 @@
 ## Makanan Khas Indonesia
 ![image](https://github.com/user-attachments/assets/e51a853a-0861-4a1d-a0e5-7ef22d468c66)
 ##### Aneka ragam makanan khas indonesia dan asal daerahnya:
-1. Ayam betutu
-2. Papeda
-3. Rendang
-4. Pempek
+1. Ayam betutu - Bali
+2. Papeda - Papua
+3. Rendang - Padang
+4. Pempek - Palembang
    
 ## Minuman Khas Indonesia
 ![image](https://github.com/user-attachments/assets/bf947a1c-bf2a-4c3c-a5f1-6759a8dd8259)
 ##### Aneka ragam Minuman khas indonesia dan asal daerah nya:
-1. Wedang Jahe
-2. Teh Tarik
-3. Bajigur
-4. Es Teler
+1. Wedang Jahe - Jawa Tengah
+2. Teh Tarik - Aceh
+3. Bajigur - Jawa Barat
+4. Es Teler - Jakarta
