@@ -10,8 +10,7 @@
 
 # Website Kuliner Nusantara
 
-#### Welcome To Kuliner Nusantara
-#### Berbagai Hidangan Makanan & Minuman Indonesia
+#### Welcome To Kuliner Nusantara Berbagai Hidangan Makanan & Minuman Indonesia
 
 ## Halaman Utama
 ![image](https://github.com/user-attachments/assets/69e7bd9b-c579-4cc5-86c9-7872d6873144)
