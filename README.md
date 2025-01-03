@@ -13,7 +13,8 @@
 #### Welcome To Kuliner Nusantara Berbagai Hidangan Makanan & Minuman Indonesia ada disini.
 
 ## Halaman Utama
-![image](https://github.com/user-attachments/assets/69e7bd9b-c579-4cc5-86c9-7872d6873144)
+![image](https://github.com/user-attachments/assets/ec80ca54-2737-42eb-8dac-d942d1b9b9c2)
+
 
 ## Makanan Khas Indonesia
 ![image](https://github.com/user-attachments/assets/e51a853a-0861-4a1d-a0e5-7ef22d468c66)
