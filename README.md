@@ -12,6 +12,8 @@
 
 ## Makanan Khas Indonesia
 ![image](https://github.com/user-attachments/assets/e51a853a-0861-4a1d-a0e5-7ef22d468c66)
-
+Aneka ragam makanan khas indonesia:
+1. Ayam betutu
+2. Papeda
 ## Minuman Khas Indonesia
 ![image](https://github.com/user-attachments/assets/bf947a1c-bf2a-4c3c-a5f1-6759a8dd8259)
