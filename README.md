@@ -7,7 +7,13 @@
 | Mata Kuliah | Pemograman Web |
 | Dosen Pengampu |Eko Budiarto, S.Kom., M.M.|
 
-## Home
+
+# Website Kuliner Nusantara
+
+#### Welcome To Kuliner Nusantara
+#### Berbagai Hidangan Makanan & Minuman Indonesia
+
+#### Halaman Utama
 ![image](https://github.com/user-attachments/assets/69e7bd9b-c579-4cc5-86c9-7872d6873144)
 #### Tampilan Home Kuliner Indonesia
 
@@ -26,3 +32,9 @@
 2. Teh Tarik - Aceh
 3. Bajigur - Jawa Barat
 4. Es Teler - Jakarta
+
+## Halaman About
+![image](https://github.com/user-attachments/assets/e172fef8-14db-4906-829e-6fd602e882c8)
+
+## Halaman Contact
+![image](https://github.com/user-attachments/assets/07234a4f-bae8-4d2e-8204-2214087d39d4)
