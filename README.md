@@ -32,16 +32,20 @@
 3. Bajigur - Jawa Barat
 4. Es Teler - Jakarta
 
-## Makanan Views & Minuman Views
+## Halaman Tambah, Edit dan hapus
+##### Makanan
 ![image](https://github.com/user-attachments/assets/8d054296-346a-4f33-abb2-f56aa9d03a87)
+##### Minuman
 ![image](https://github.com/user-attachments/assets/c9da308c-dbec-4aca-94a8-2cf0bfec2522)
 
 ## Halaman About
 ![image](https://github.com/user-attachments/assets/e172fef8-14db-4906-829e-6fd602e882c8)
-Ini adalah halaman about kami, agar anda mendapat informasi tentang kita mulai dari misi dan visi
+Ini adalah halaman about kami, agar anda mendapat informasi tentang kita mulai dari visi, misi dan kontak.
 
 ## Halaman Contact
 ![image](https://github.com/user-attachments/assets/07234a4f-bae8-4d2e-8204-2214087d39d4)
+Halaman kontak ini berguna untuk anda, agar kami dapat menerima masukkan/kritik dan saran.
 
 ## Halaman 404
 ![image](https://github.com/user-attachments/assets/479c3973-afdb-4342-a86c-fb56ecf80391)
+Halaman 404 adalah halaman yang tidak ada atau sudah tidak tersedia di website.
